@@ -1,2 +1,2 @@
-[NinjaHorse](ninja.horse)
-=========================
+[NinjaHorse](http://ninja.horse)
+================================
