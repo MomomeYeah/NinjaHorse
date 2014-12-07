@@ -1,2 +1,2 @@
-NinjaHorse
-==========
+[NinjaHorse](ninja.horse)
+=========================
